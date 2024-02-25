@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+.ghh{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(0, 0, 60, 10%);
+    font-family: "Anta", sans-serif;
+  font-weight: 600;
+}
+.hhg{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    text-align-last: center;
+    font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.hh{
+  color: black;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: rgb(0, 0, 100, 15%);
+    font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.hg{
+  color: black;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.hgh{
+    color: rgb(100, 55, 90);
+    font-size: 22px;
+    text-decoration: none;
+    text-align: justify;
+    font-family: "Kode Mono", monospace;
+  font-weight: 400;
+}
+.g{
+    color: rgb(100, 55, 90);
+    text-decoration: none;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+  font-weight: 400;
+}
+.gg{
+  color: #fff;
+  letter-spacing: 5px;
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+  text-align: center;
+  line-height: 150px;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.b1{
+  color: blue;
+  width: 150px;
+  height: 45px;
+  background-color: red;
+  text-align: center;
+  line-height: 45px;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.b2{
+  color: yellow;
+  width: 150px;
+  height: 45px;
+  background-color: green;
+  text-align: center;
+  line-height: 45px;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.b3{
+  color: red;
+  width: 150px;
+  height: 45px;
+  background-color: blue;
+  text-align: center;
+  line-height: 45px;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
+.b4{
+  color: green;
+  width: 150px;
+  height: 45px;
+  background-color: yellow;
+  text-align: center;
+  line-height: 45px;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+}
